@@ -159,7 +159,7 @@ button {
 }
 
 .new-collection {
-    background-color: rgb(233, 240, 253);
+    background-color: #E9F0FD;
     padding-top: 96px;
     padding-bottom: 100px;
 }
@@ -172,7 +172,7 @@ button {
     float: left;
     margin-right: 30px;
     width: 255px;
-    background-color: rgb(233, 240, 253);
+    background-color: #E9F0FD;
 }
 
 .product:last-child {
@@ -201,6 +201,7 @@ button {
 .product-name {
     float: left;
     padding: 7px 0 5px 14px;
+    width: 77%;
 }
 
 .product-price {
